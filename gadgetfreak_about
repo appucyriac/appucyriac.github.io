@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <link rel="stylesheet" type="text/css" href="element_style.css">
+    <link rel="stylesheet" type="text/css" href="button.css">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+    <title>Gadget Freak</title>
+
+
+    
+ </head>
+ <body>
+
+  <header>
+        
+        <h1 id="main-title" style="font-family: 'Amatic SC', cursive;"">
+            G a d g e t   F r e a k
+        </h1>
+
+        
+        <ul>
+         <li><a class="active" href="file:///home/appu/Documents/GadgetFreak/gadgetfreak_home.html">Home</a></li>
+         <li><a href="#news">News</a></li>
+         <li><a href="#contact">Contact</a></li>
+         <li><a href="file:///home/appu/Documents/GadgetFreak/gadgetfreak_about.html">About</a></li>
+         <bi><a href="file:///home/appu/Documents/GadgetFreak/adgetfreak_register.html">Sign Up</a></bi>
+         <bi><a href="file:///home/appu/Documents/GadgetFreak/gadgetfreak_signin.html">Sign In</a></bi>
+        </ul>   
+                                                                          
+        
+   
+        <h5>About</h5>
+  </header>
+ <body>
+
+    <article>
+        Gadget freak is the original home for technology news and reviews. Since our founding in 2004, we've grown from an exhaustive source for consumer tech news to a global multimedia organization covering the intersection of technology, gaming and entertainment. Today, Engadget hosts the archives and expertise of early digital publishing players like Joystiq, TUAW and gdgt, and produces the Internet's most compelling videos, reviews, features and breaking news about the people, products and ideas shaping our world.
+
+        After 13 years in the game, we're leveraging our history to bring the future into focus.
+    </article>
+  <footer>
+       <h4>Copyright  © 2017 Gadget Freak Tech. All rights reserved.</h4>
+       <div class="share">
+        <a href="http://www.facebook.com/sharer.php?u=https://simplesharebuttons.com" target="_blank">
+         <img id="social" src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+        </a>
+        <a href="https://twitter.com/share?url=https://simplesharebuttons.com&amp;text=Simple%20Share%20Buttons&amp;hashtags=simplesharebuttons" target="_blank">
+         <img id="social" src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+        </a>
+        <a href="https://plus.google.com/share?url=https://simplesharebuttons.com" target="_blank">
+         <img id="social" src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
+       </a>
+       </div>
+  </footer>
+ </body>
+</html>
